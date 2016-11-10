@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>All about cooking</title>
+	</head>
+	<body>
+<h1 style="font-size: 100px ; text-align: center ; color: grey"> ALL ABOUT COOKING</h1>
+	<img src="http://kiwoz.top/browse.php?u=MFLUmfkrvHRZ7kVHk%2BjfYVattcpDlSTMp0Ge%2FgHpRqzJXdqyikwzGXs7wgkNZku%2F%2FPgbFY5zVcmCZGZPvG0Z2eb7phJiXjRfymLWPhfeatkpGw3YFRT6uPBJebjH&b=29" />
+
+		<p style="color: grey ; font-size: 22px ; font-family: Waltz">Our cookbook was a collection of recipes from our school community (current parents, grandparents, faculty and past parents) to commemorate Maret School Centennial year celebrations in 2011. This was a project of our Grandparent Committee and the cookbook included over 200 recipes! Here is an except from the introduction:
+
+		 “Grandparents are famous for inviting family over for dinner, to share homemade recipes that have been passed down through the generations. Some even like to sample different foods from favorite restaurants or cookbooks and get together with family for taste-testing. As Maret celebrates our Centennial, the Grandparents’ Committee thought that it would be a perfect chance to bring all generations together through one common thread – food. Thus, this is the beginning of what we would like to continue through the years, hoping to gain momentum and adding even more recipes for years to come.”</p>
+		<ul>
+		
+			<li><p style="color:red">Rationale</p>
+				<ul>
+					<li style="font-family:Futura">To give basic recipes for the non-proffesional users</li>
+					<li style="font-family:Futura"></li>
+					<li style="font-family:Futura"></li>
+				</ul>
+            </li>
+			<li><p style="color:red">Elements</p>
+				<ol>
+					<li style="font-family:Futura"></li>
+					<li style="font-family:Futura"></li>
+				</ol>
+            </li>
+			<li><p style="color:red">Content</p>
+				<ol>
+					<li style="font-family:Futura">Basic Recipes</li>
+					<li style="font-family:Futura">Cooking techniques</li>
+					<li style="font-family:Futura">Tipid tips</li>
+					<li style="font-size:18px; font-family:Futura"></li>
+				</ol>
+            </li>
+			<li><p style="color:red">Target Audience</p>
+				<ul>
+					<li style="font-family:Futura">Mothers</li>
+					<li style="font-family:Futura">Begginers</li>
+				</ul>
+            </li>
+		</ul>
+	</body>
+</html>
